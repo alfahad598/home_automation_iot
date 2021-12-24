@@ -1,0 +1,20 @@
+{
+  "name": "home_automation_iot",
+  "version": "1.0.0",
+  "description": "my 8th semester final project",
+  "main": "service_worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "fahad",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-tools": "^9.23.1",
+    "webpack": "^5.65.0"
+  },
+  "devDependencies": {
+    "firebase": "^9.6.1",
+    "webpack-cli": "^4.9.1 "
+  }
+}
